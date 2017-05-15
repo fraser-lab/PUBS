@@ -1,5 +1,5 @@
-# PUBS2014
-This is the git repository for the pipeline created by the UCSF PUBS2014 class to analyze data
+# PUBS
+This is the git repository for the pipeline created by the UCSF PUBS class to analyze data
 generated in the EMPIRC-BC experements of ubiquitin.
 
 the piple line takes raw fastq files generated on Illumina deep sequencing platforms, counts Ub alleles, scores allele fitness, and generates a heatmap of allele fitness
